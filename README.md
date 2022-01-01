@@ -1,4 +1,4 @@
-# tensorflow-2-and-keras-bootcamp
+# Complete Tensorflow 2 and Keras Deep Learning Bootcamp
 Course: Complete Tensorflow 2 and Keras Deep Learning Bootcamp by Jose Portilia. There are notebooks which I made while watching this course and I also implemented some of my own basic things while learning. Hope it helps.
 
 You can find this course on https://www.udemy.com/course/complete-tensorflow-2-and-keras-deep-learning-bootcamp/
