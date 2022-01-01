@@ -26,6 +26,15 @@ My Favorite part was from ANNs till RNNs. So in those sections I tried few stuff
 In Deployment section, you will find "Final_Deployment" folder. All files in that folder are the files you will need for heroku.
 
 
+**One More thing**
+I used google colab with google drive for my ease of use so you will find paths such as "/drive/My Drive/Colab Notebooks/Something/Something/nameoffile.csv 
+So you can just replace it with "nameoffile.csv".
+
+And :
+
+"lending_club_loan_two.csv" can't be found on inside ANNs folder so you will need to download it from https://www.kaggle.com/wordsforthewise/lending-club
+
+
 ## Contact
 
 Abu Bakar - abubakargone@gmail.com
